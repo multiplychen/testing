@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
 
     <string name="app_name">MapDemo</string>
@@ -39,7 +39,7 @@
     <string name="marker_title_kenting">墾丁國家公園</string>
     <string name="marker_snippet_kenting">墾丁國家公園是台灣第1座成立的國家公園，1984年1月1日成立管理處，三面臨海，為我國少數同時涵蓋陸域與海域的國家公園之一，海域面積15206.09公頃、陸域面積18083.50公頃，合計共33,289.59公頃。</string>
     <string name="marker_title_yangmingshan">陽明山國家公園</string>
-    <string name="marker_snippet_yangmingshan">陽明山國家公園前身為日治時期成立之大屯國立公園，1985年9月16日成立管理處。位於台北市近郊，行政區域包括同市北投區、士林區，新北市的萬里區、金山區、三芝區、淡水區一帶；地理上則屬於大屯火山彙區域。</string>
+    <string name="marker_snippet_yangmingshan">陽明山國家公園前身為日治時期成立之大屯國立公園，19於台北市近郊，行政區域包括同市北投區、士林區，新北市的萬里區、金山區、三芝區、淡水區一帶；地理上則屬於大屯火山彙區域。</string>
     <string name="text_tvMarkerDrag">Drag Marker</string>
     <string name="text_btClearMap">Clear</string>
     <string name="text_btResetMap">Reset</string>
