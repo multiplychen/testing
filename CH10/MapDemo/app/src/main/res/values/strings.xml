@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MapDemo</string>
+    <!-- Basic Map Example -->
+    <string name="title_BasicMap">Basic Maps</string>
+
+    <!-- Map Type and UI Settings Example -->
+    <string name="title_MapTypeUiSettings">Map Types and UI Settings</string>
+
+    <string-array name="mapTypes">
+        <item>@string/normal</item>
+        <item>@string/hybrid</item>
+        <item>@string/satellite</item>
+        <item>@string/terrain</item>
+    </string-array>
+
+    <string name="normal">Normal</string>
+    <string name="hybrid">Hybrid</string>
+    <string name="satellite">Satellite</string>
+    <string name="terrain">Terrain</string>
+    <string name="text_cbTraffic">Traffic</string>
+    <string name="text_cbZoomControls">Zoom Controls</string>
+    <string name="text_cbMyLocationButton">My Location Button</string>
+    <string name="text_cbCompass">Compass</string>
+    <string name="text_cbMyLocationLayer">My Location Layer</string>
+    <string name="text_cbScrollGestures">Scroll Gestures</string>
+    <string name="text_cbZoomGestures">Zoom Gestures</string>
+    <string name="text_cbTiltGestures">Tilt Gestures</string>
+    <string name="text_cbRotateGestures">Rotate Gestures</string>
+    <string name="msg_MapNotReady">Map not ready</string>
+
+    <!-- Markers Example -->
+    <string name="title_Markers">Markers</string>
+    <string name="marker_title_taroko">太魯閣國家公園</string>
+    <string name="marker_snippet_taroko">太魯閣國家公園前身為日治時期成立之次高太魯閣國立公園，1986年11月28日成立管理處。位於台灣東部，地跨花蓮縣、台中市、南投縣三個行政區。</string>
+    <string name="marker_title_yushan">玉山國家公園</string>
+    <string name="marker_snippet_yushan">玉山國家公園是台灣第2座國家公園，1985年4月10日成立管理處，面積10萬5,490公頃，屬一典型高山國家公園。</string>
+    <string name="marker_title_kenting">墾丁國家公園</string>
+    <string name="marker_snippet_kenting">墾丁國家公園是台灣第1座成立的國家公園，1984年1月1日成立管理處，三面臨海，為我國少數同時涵蓋陸域與海域的國家公園之一，海域面積15206.09公頃、陸域面積18083.50公頃，合計共33,289.59公頃。</string>
+    <string name="marker_title_yangmingshan">陽明山國家公園</string>
+    <string name="marker_snippet_yangmingshan">陽明山國家公園前身為日治時期成立之大屯國立公園，1985年9月16日成立管理處。位於台北市近郊，行政區域包括同市北投區、士林區，新北市的萬里區、金山區、三芝區、淡水區一帶；地理上則屬於大屯火山彙區域。</string>
+    <string name="text_tvMarkerDrag">Drag Marker</string>
+    <string name="text_btClearMap">Clear</string>
+    <string name="text_btResetMap">Reset</string>
+
+    <!-- Polylines and Polygons Example -->
+    <string name="title_PolylinesPolygons">Polylines, Polygons and Circles</string>
+    <string name="msg_ErrorSettings">Error settings</string>
+
+    <!-- Geocoder Example -->
+    <string name="title_Geocoder">Geocoder</string>
+    <string name="hint_etLocationName">Location name</string>
+    <string name="btSubmit">Submit</string>
+    <string name="msg_LocationNameNotFound">Location name not found</string>
+    <string name="msg_LocationNameIsEmpty">Location name is empty</string>
+</resources>
